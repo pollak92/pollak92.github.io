@@ -1,0 +1,46 @@
+.header {
+    width: 100%;
+    height: 70px;
+    background-color: #333333;
+    display: flex;
+    justify-content:space-evenly;
+    
+}
+
+.main {
+    width: 100%;
+    height: 3000px;
+    background-color: hotpink;
+    font-family: 'Odibee Sans', cursive;
+   
+}
+
+a {
+    font-family: 'Odibee Sans', cursive;
+    font-size: 50px;
+    color: #ff0099;
+}
+
+h1 {
+    margin: 0px;
+    font-size:  100px;
+    margin-left: 25%;
+    padding-top: 150px;
+}
+
+h2 {
+    font-size:  70px;
+    margin-left: 25%;
+}
+
+p {
+    font-size: 30px;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+hr.dashed {
+    border-top: 15px dashed black;
+    margin-left: 48.5%;
+    margin-right: 48.5%;
+}
